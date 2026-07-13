@@ -82,7 +82,7 @@ Detail   ├── Edit
 <img src="katalog.jpeg"/>
 
 ### 3. CRUD Feature
-<img src="crud produk.jpeg"/>
+<img src="crud produk.png"/>
 <img src="tambah produk.jpeg"/>
 <img src="tombol cta.jpeg"/>
 <img src="tombol logout.jpeg"/>
