@@ -82,7 +82,7 @@ Detail   ├── Edit
 
 ### 3. CRUD Feature
 
-*(Tambahkan gambar di sini)*
+https://github.com/anindtaa/VA-Fashion-Samarinda-App/blob/main/crud%20produk.png
 
 ---
 
