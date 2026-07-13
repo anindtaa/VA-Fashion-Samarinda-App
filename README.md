@@ -106,19 +106,6 @@ lib/
  ┗ main.dart
 ```
 
-
-## 📱 File Aplikasi (.APK)
-
-Link download aplikasi:
-👉 (link Google Drive)
-
----
-
-## 🔗 Repository GitHub
-
-Link repository:
-👉 (link GitHub)
-
 ---
 
 Fitur CRUD Produk
@@ -131,6 +118,11 @@ stok	int	Jumlah stok
 deskripsi	String	Deskripsi produk
 gambar	String?	Path foto produk
 isFavorit	bool	Status favorit
+
+📞 Kontak Toko
+WhatsApp : 0853-4506-5361
+Instagram : @vafashion.samarinda
+Lokasi : Samarinda, Kalimantan Timur
 
 ## Penutup
 
