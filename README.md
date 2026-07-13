@@ -74,7 +74,7 @@ Detail   ├── Edit
 
 ### 1. Onboarding Screen
 
-*(Tambahkan gambar di sini)*
+https://github.com/anindtaa/VA-Fashion-Samarinda-App/blob/main/splash%20screen.jpeg
 
 ### 2. Home Screen
 
