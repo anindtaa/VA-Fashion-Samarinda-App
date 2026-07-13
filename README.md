@@ -78,7 +78,7 @@ Detail   ├── Edit
 
 ### 2. Home Screen
 
-*(Tambahkan gambar di sini)*
+https://github.com/anindtaa/VA-Fashion-Samarinda-App/blob/main/home%20page.jpeg
 
 ### 3. CRUD Feature
 
