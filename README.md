@@ -73,22 +73,18 @@ Detail   ├── Edit
 ## 📸 Screenshot Aplikasi
 
 ### 1. Onboarding Screen
-
-https://github.com/anindtaa/VA-Fashion-Samarinda-App/blob/main/splash%20screen.jpeg
-
-https://github.com/anindtaa/VA-Fashion-Samarinda-App/blob/main/login%20page.jpeg
+splash screen.jpeg
+login page.jpeg
 
 ### 2. Home Screen
-
-https://github.com/anindtaa/VA-Fashion-Samarinda-App/blob/main/home%20page.jpeg
+home page.jpeg
+katalog.jpeg
 
 ### 3. CRUD Feature
-
-https://github.com/anindtaa/VA-Fashion-Samarinda-App/blob/main/crud%20produk.png
-
-https://github.com/anindtaa/VA-Fashion-Samarinda-App/blob/main/tombol%20cta.jpeg
-
-
+crud produk.png
+tambah produk.jpeg
+tombol cta.jpeg
+tombol logout.jpeg
 
 ---
 
