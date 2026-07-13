@@ -76,6 +76,8 @@ Detail   ├── Edit
 
 https://github.com/anindtaa/VA-Fashion-Samarinda-App/blob/main/splash%20screen.jpeg
 
+https://github.com/anindtaa/VA-Fashion-Samarinda-App/blob/main/login%20page.jpeg
+
 ### 2. Home Screen
 
 https://github.com/anindtaa/VA-Fashion-Samarinda-App/blob/main/home%20page.jpeg
