@@ -74,16 +74,18 @@ Detail   ├── Edit
 
 ### 1. Onboarding Screen
 <img src="splash screen.jpeg"/>
+<img src="login page.jpeg"/>
 
 ### 2. Home Screen
-home page.jpeg
-katalog.jpeg
+<img src="home page.jpeg"/>
+<img src="katalog produk.jpeg"/>
+<img src="katalog.jpeg"/>
 
 ### 3. CRUD Feature
-crud produk.png
-tambah produk.jpeg
-tombol cta.jpeg
-tombol logout.jpeg
+<img src="crud produk.jpeg"/>
+<img src="tambah produk.jpeg"/>
+<img src="tombol cta.jpeg"/>
+<img src="tombol logout.jpeg"/>
 
 ---
 
