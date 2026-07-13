@@ -73,8 +73,7 @@ Detail   ├── Edit
 ## 📸 Screenshot Aplikasi
 
 ### 1. Onboarding Screen
-(splash screen.jpeg)
-login page.jpeg
+<img src="splash screen.jpeg"/>
 
 ### 2. Home Screen
 home page.jpeg
