@@ -86,6 +86,10 @@ https://github.com/anindtaa/VA-Fashion-Samarinda-App/blob/main/home%20page.jpeg
 
 https://github.com/anindtaa/VA-Fashion-Samarinda-App/blob/main/crud%20produk.png
 
+https://github.com/anindtaa/VA-Fashion-Samarinda-App/blob/main/tombol%20cta.jpeg
+
+
+
 ---
 
 ## 🛠️ Teknologi yang Digunakan
